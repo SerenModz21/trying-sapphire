@@ -13,6 +13,7 @@
     "@lib": "./dist/lib"
   },
   "dependencies": {
+    "@dimensional-fun/logger": "^1.0.1",
     "@sapphire/framework": "^1.0.2",
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
