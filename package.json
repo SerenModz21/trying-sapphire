@@ -13,7 +13,7 @@
     "@lib": "./dist/lib"
   },
   "dependencies": {
-    "@sapphire/decorators": "^2.2.0",
+    "@sapphire/decorators": "^4.2.6",
     "@sapphire/framework": "^1.0.2",
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
