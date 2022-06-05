@@ -68,10 +68,10 @@
   resolved "https://registry.yarnpkg.com/@sapphire/utilities/-/utilities-1.6.1.tgz#33b2c9b10f78b7466869f39c8739050909f977f3"
   integrity sha512-aOfw3yPuy51GxgyMHIHeLSaw4bN8+we2VSsojmX4HBLV687emy70AzPm98c2D8oOf6EqYzW9i1g8Rfbbh1ANqQ==
 
-"@types/node@^16.11.36":
-  version "16.11.36"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.36.tgz#9ab9f8276987132ed2b225cace2218ba794fc751"
-  integrity sha512-FR5QJe+TaoZ2GsMHkjuwoNabr+UrJNRr2HNOo+r/7vhcuntM6Ee/pRPOnRhhL2XE9OOvX9VLEq+BcXl3VjNoWA==
+"@types/node@^16.11.38":
+  version "16.11.38"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.38.tgz#be0edd097b23eace6c471c525a74b3f98803017f"
+  integrity sha512-hjO/0K140An3GWDw2HJfq7gko3wWeznbjXgg+rzPdVzhe198hp4x2i1dgveAOEiFKd8sOilAxzoSJiVv5P/CUg==
 
 abort-controller@^3.0.0:
   version "3.0.0"
@@ -252,10 +252,10 @@ twemoji-parser@^13.1.0:
   resolved "https://registry.yarnpkg.com/twemoji-parser/-/twemoji-parser-13.1.0.tgz#65e7e449c59258791b22ac0b37077349127e3ea4"
   integrity sha512-AQOzLJpYlpWMy8n+0ATyKKZzWlZBJN+G0C+5lhX7Ftc2PeEVdUU/7ns2Pn2vVje26AIZ/OHwFoUbdv6YYD/wGg==
 
-typescript@^4.7.2:
-  version "4.7.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.7.2.tgz#1f9aa2ceb9af87cca227813b4310fff0b51593c4"
-  integrity sha512-Mamb1iX2FDUpcTRzltPxgWMKy3fhg0TN378ylbktPGPK/99KbDtMQ4W1hwgsbPAsG3a0xKa1vmw4VKZQbkvz5A==
+typescript@^4.7.3:
+  version "4.7.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.7.3.tgz#8364b502d5257b540f9de4c40be84c98e23a129d"
+  integrity sha512-WOkT3XYvrpXx4vMMqlD+8R8R37fZkjyLGlxavMc4iB8lrl8L0DeTcHbYgw/v0N/z9wAFsgBhcsF0ruoySS22mA==
 
 wrappy@1:
   version "1.0.2"
